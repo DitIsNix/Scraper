@@ -55,3 +55,4 @@ add at end of the line: `logo.nologo vt.global_cursor_default=0`
 # To do:
 - [ ] Split py-script into scraper and buttons
 - [ ] Write bash script to run part of setup
+- [ ] Clean up scraper script
